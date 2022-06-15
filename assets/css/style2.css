@@ -1,0 +1,29 @@
+
+.heading {
+  background-color: #1c1a19;
+}
+
+.firstline {
+  color: orange;
+}
+
+.secondline {
+  color: white;
+}
+
+.thirdline {
+  color: white;
+}
+
+.img1 {
+  width: 100%;
+}
+
+.recent-works {
+  height: 200px;
+  width: 90%;
+}
+
+.card {
+  padding-top: 120px;
+}
