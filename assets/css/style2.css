@@ -1,6 +1,8 @@
 .project-background {
-    background-image: url(assets/images/forth-col.png);
+    background-image: url("assets/images/forth-col.png");
     background-repeat: no-repeat;
+    /* margin-top: 100px;
+    height: 435px; */
 }
 
 .heading {
@@ -21,4 +23,8 @@
 
 .recent-works {
     height:200px; width: 90%;
+}
+
+.card {
+    padding-top: 120px;
 }
