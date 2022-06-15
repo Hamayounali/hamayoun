@@ -1,0 +1,24 @@
+.project-background {
+    background-image: url(assets/images/forth-col.png);
+    background-repeat: no-repeat;
+}
+
+.heading {
+    background-color: #1c1a19
+}
+
+.firstline {
+    color:orange;
+}
+
+.secondline {
+    color:white;
+}
+
+.thirdline {
+    color:white;
+}
+
+.recent-works {
+    height:200px; width: 90%;
+}
